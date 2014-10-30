@@ -1,0 +1,4 @@
+cider
+=====
+
+Brew automatic installer
